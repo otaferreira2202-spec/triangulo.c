@@ -18,6 +18,6 @@ int main(int argc, char *argv[])
         printf("digite a base do triangulo");
     }
     
-    printf("\nFeito por Otávio Augusto (https://github.com/otaferreira2202-spec) ");
+    printf("\nFeito por Otavio Augusto (https://github.com/otaferreira2202-spec) ");
     return 0;
 }
